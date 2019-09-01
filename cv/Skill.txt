@@ -1,0 +1,5 @@
+<dt>Skills</dt>
+            <dd>
+                <p>Python, Javascript,Java
+                Data structures, Design analysis of Alogrithm, mysql, Photoshop</p>
+            </dd>
